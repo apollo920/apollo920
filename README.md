@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Apollo Sá @apollo920
+- 👀 I’m interested in DataScience
+- 🌱 I’m currently learning Manipulação de dados usando Python e visualização de dados usando as bibliotecas Seaborn, Matplotlib e NumPy. Também estou desenvolvendo meus conhecimentos em Power BI criando dashboards e aprimorando meu inglês.
+- 💞️ I’m looking to collaborate on uma boa empresa que me faça evoluir para o próximo nível
+- 📫 How to reach me https://www.linkedin.com/in/apollo-lopes-damasceno-s%C3%A1-b71ab2270
+- ⚡ Fun fact: Amo aprender e sou apaixonado por DataScience, meu objetivo é me tornar um profissional de excelência nesta área.
