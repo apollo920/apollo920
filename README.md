@@ -1,6 +1,37 @@
-- 👋 Hi, I’m Apollo Sá @apollo920
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Manipulação de dados usando Python e visualização de dados usando as bibliotecas Seaborn, Matplotlib e NumPy. Também estou desenvolvendo meus conhecimentos em Power BI criando dashboards e aprimorando meu inglês.
-- 💞️ I’m looking to collaborate on uma boa empresa que me faça evoluir para o próximo nível
-- 📫 How to reach me https://www.linkedin.com/in/apollo-lopes-damasceno-s%C3%A1-b71ab2270
-- ⚡ Fun fact: Amo aprender e sou apaixonado por DataScience, meu objetivo é me tornar um profissional de excelência nesta área.
+# 👋 Hello! I'm Apollo Sá
+
+### 💼 About Me
+Sou engenheiro de software com experiência em desenvolvimento Backend, Frontend e DevOps. Atualmente, trabalho como estagiário em engenharia de software na Lucas Technology Service.
+
+### 🛠 Skills
+- **Linguagens:** [Golang, Python, JavaScript]
+- **Frameworks e Ferramentas:** [React, Node.js, Next.js, Fiber, Pandas, Matplotlib]
+- **Banco de Dados:** [MySQL, PostgreSQL]
+- **DevOps:** [Docker]
+- **Cloud:** [Azure]
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apollo920&show_icons=true&theme=dracula&count_private=true)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=apollo920&theme=dracula)
+
+### 📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apollo920&layout=compact&theme=dracula)
+
+
+### 🚀 Últimos Projetos
+1. **[Nome do Projeto 1](link para o repositório)** - Breve descrição sobre o que faz e as tecnologias envolvidas.
+2. **[Nome do Projeto 2](link para o repositório)** - Breve descrição sobre o que faz e as tecnologias envolvidas.
+3. **[Nome do Projeto 3](link para o repositório)** - Breve descrição sobre o que faz e as tecnologias envolvidas.
+
+### 🌐 Redes Sociais
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/apollo-s%C3%A1-90939231b/))
+- [Blog ou site pessoal](em produção)
+
+### 💬 Como Me Encontrar
+Se tiver interesse em discutir ideias ou quiser colaborar em projetos, sinta-se à vontade para me contatar através de apollolds2@gmail.com. Estou sempre aberto a novas oportunidades e desafios!
+
+---
+
+⭐️ Deixe uma estrela nos repositórios que você gostar!
