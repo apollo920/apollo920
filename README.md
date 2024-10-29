@@ -4,11 +4,11 @@
 Sou engenheiro de software com experiência em desenvolvimento Backend, Frontend e DevOps. Atualmente, trabalho como estagiário em engenharia de software na Lucas Technology Service.
 
 ### 🛠 Skills
-- **Linguagens:** [Golang, Python, JavaScript]
-- **Frameworks e Ferramentas:** [React, Node.js, Next.js, Fiber, Pandas, Matplotlib]
-- **Banco de Dados:** [MySQL, PostgreSQL]
-- **DevOps:** [Docker]
-- **Cloud:** [Azure]
+- **Linguagens:** Golang, Python, JavaScript, C#
+- **Frameworks e Ferramentas:** React, Node.js, Next.js, Fiber, Pandas, Matplotlib
+- **Banco de Dados:** MySQL, PostgreSQL
+- **DevOps:** Docker
+- **Cloud:** Azure
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apollo920&show_icons=true&theme=dracula&count_private=true)
@@ -21,12 +21,12 @@ Sou engenheiro de software com experiência em desenvolvimento Backend, Frontend
 
 
 ### 🚀 Últimos Projetos
-1. **[Nome do Projeto 1](link para o repositório)** - Breve descrição sobre o que faz e as tecnologias envolvidas.
-2. **[Nome do Projeto 2](link para o repositório)** - Breve descrição sobre o que faz e as tecnologias envolvidas.
-3. **[Nome do Projeto 3](link para o repositório)** - Breve descrição sobre o que faz e as tecnologias envolvidas.
+1. **[API-HR-GO]([link para o repositório](https://github.com/apollo920/API-HR-GO.git))** - Controle de batida de ponto eletrônico
+2. **[Nome do Projeto 2](link para o repositório)** - Em produção
+3. **[Nome do Projeto 3](link para o repositório)** - Em produção
 
 ### 🌐 Redes Sociais
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/apollo-s%C3%A1-90939231b/))
+- [LinkedIn]([link para o repositório](https://www.linkedin.com/in/apollo-s%C3%A1-90939231b/))
 - [Blog ou site pessoal](em produção)
 
 ### 💬 Como Me Encontrar
