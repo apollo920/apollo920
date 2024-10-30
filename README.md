@@ -26,7 +26,7 @@ Sou engenheiro de software com experiência em desenvolvimento Backend, Frontend
 3. **[Nome do Projeto 3](link para o repositório)** - Em produção
 
 ### 🌐 Redes Sociais
-- LinkedIn([link para o repositório](https://www.linkedin.com/in/apollo-s%C3%A1-90939231b/))
+- LinkedIn([link para o linkedin](https://www.linkedin.com/in/apollo-s%C3%A1-90939231b/))
 - Blog ou site pessoal(em produção)
 
 ### 💬 Como Me Encontrar
