@@ -22,8 +22,8 @@ Sou engenheiro de software com experiência em desenvolvimento Backend, Frontend
 
 ### 🚀 Últimos Projetos
 1. **API-HR-GO([link para o repositório](https://github.com/apollo920/API-HR-GO.git))** - Controle de batida de ponto eletrônico
-2. **[Nome do Projeto 2](link para o repositório)** - Em produção
-3. **[Nome do Projeto 3](link para o repositório)** - Em produção
+2. **Nome do Projeto 2(link para o repositório)** - Em produção
+3. **Nome do Projeto 3(link para o repositório)** - Em produção
 
 ### 🌐 Redes Sociais
 - LinkedIn([link para o linkedin](https://www.linkedin.com/in/apollo-s%C3%A1-90939231b/))
