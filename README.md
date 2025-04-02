@@ -1,14 +1,14 @@
 # 👋 Hello! I'm Apollo Sá
 
 ### 💼 About Me
-Sou engenheiro de software com experiência em desenvolvimento Backend, Frontend e DevOps. Atualmente, trabalho como estagiário em engenharia de software na Lucas Technology Service.
+Sou engenheiro de software com experiência em desenvolvimento Backend e Análise de Dados.
 
 ### 🛠 Skills
-- **Linguagens:** Golang, Python, JavaScript, C#
-- **Frameworks e Ferramentas:** React, Node.js, Next.js, Fiber, Pandas, Matplotlib
+- **Linguagens:** Python 
+- **Frameworks e Ferramentas:** Pandas, Matplotlib, Seaborn, Django.
 - **Banco de Dados:** MySQL, PostgreSQL
 - **DevOps:** Docker
-- **Cloud:** Azure
+- **Cloud:** Azure, AWS.
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apollo920&show_icons=true&theme=dracula&count_private=true)
