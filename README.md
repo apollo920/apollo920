@@ -16,24 +16,6 @@ Sou engenheiro de software com experiência em **APIs com FastAPI/Django**, **SQ
 - **Banco de Dados:** PostgreSQL, MySQL  
 - **DevOps:** Docker, GitHub Actions  
 - **Cloud:** Azure, AWS
-
----
-
-## 🚀 Feitos em destaque (diário técnico)
-> Abaixo estão alguns marcos documentados em chats (estudo/planejamento/depuração).  
-> • Cada link abre o registro da investigação e das decisões.
-
-- **Desafio Backend (FastAPI + SQLAlchemy + PostgreSQL)** – modelagem de formulários dinâmicos (Formulário, Pergunta, Opções), **paginação/ordenação/filtros**, e correção de **erros 500 por migração ausente/colunas**.  
-  
-
-- **Dashboard de Capacitações (Plotly/Streamlit)** – tema escuro, métricas, barras com rótulos numéricos e árvore com percentuais no centro; organização em abas e UX de filtros.  
-  
-
-- **Clusterização de alunos (KMeans)** – padronização, seleção de K via Silhouette, análise de clusters e gráficos; tratamento de `groupby` e percentuais.  
-  
-
-> _Obs.: os links acima são registros de estudo/diagnóstico (diário de bordo)._
-
 ---
 
 ## 📌 Projetos
