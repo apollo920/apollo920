@@ -2,7 +2,7 @@
 
 > Engenheiro de Software focado em **Backend** e **Análise de Dados**. Gosto de resolver bugs cabeludos, modelar dados direito e transformar problemas abertos em entregas claras e testáveis.
 
-[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapollo920%2Fapollo920&title=Profile%20Views)](#)
+[![Profile views](https://komarev.com/ghpvc/?username=apollo920&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/apollo920)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Apollo%20Sá-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apollo-s%C3%A1-90939231b/)
 
 ---
