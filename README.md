@@ -1,6 +1,10 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=0000ff&textBg=false&fontColor=0000ff)
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software;Desenvolvedor+Backend;An%C3%A1lise+de+Dados+e+BI;APIs+com+FastAPI+%2F+Django;Modelagem+e+SQL)](https://git.io/typing-svg)
+
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apollo920&bg_color=000000&color=0000ff&line=0000ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -30,7 +34,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30px"> GitHub Stats
 
 <div align="center">
 
