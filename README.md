@@ -21,7 +21,11 @@
 ---
 
 ## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="20px"> GitHub Stats
-<div align="center">
-![Apollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=apollo920&show_icons=true&theme=tokyonight&title_color=0000ff&icon_color=00aaff&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apollo920&layout=compact&theme=tokyonight&title_color=0000ff&hide_border=true)
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apollo920&show_icons=true&theme=tokyonight&title_color=0000ff&icon_color=00aaff&hide_border=true"/>  
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollo920&layout=compact&theme=tokyonight&title_color=0000ff&hide_border=true"/>
+
 </div>
+
