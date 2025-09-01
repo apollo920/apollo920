@@ -14,6 +14,14 @@
 ![Line](https://raw.githubusercontent.com/apollo920/apollo920/main/assets/line-colors-ezgif.com-resize.gif)
 
 ---
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apollo920&show_icons=true&theme=tokyonight&title_color=0000ff&icon_color=00aaff&hide_border=true"/>  
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollo920&layout=compact&theme=tokyonight&title_color=0000ff&hide_border=true"/>
+
+</div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif&ct=g" width="20px"> Skills  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/-Seaborn-4c8cbf?style=for-the-badge&logo=python&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
