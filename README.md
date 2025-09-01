@@ -1,54 +1,36 @@
-# 👋 Olá! Eu sou o Apollo Sá
+# 👋 Olá! Eu sou o Apollo Sá  
 
-> Engenheiro de Software focado em **Backend** e **Análise de Dados**. Gosto de resolver bugs cabeludos, modelar dados direito e transformar problemas abertos em entregas claras e testáveis.
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=0000ff&textBg=false&fontColor=0000ff)
 
-[![Profile views](https://komarev.com/ghpvc/?username=apollo920&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/apollo920)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apollo%20Sá-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apollo-s%C3%A1-90939231b/)
-
----
-
-## 💼 Sobre mim
-Sou engenheiro de software com experiência em **APIs com FastAPI/Django**, **SQL e modelagem de dados**, e **análises com Python** (Pandas/Matplotlib/Seaborn/Plotly). Curto escrever código limpo, versionar decisões técnicas e medir impacto.
-
-## 🛠 Stack
-- **Linguagens:** Python  
-- **Frameworks e Ferramentas:** FastAPI, Django, Pandas, Matplotlib, Seaborn, Plotly, Streamlit  
-- **Banco de Dados:** PostgreSQL, MySQL  
-- **DevOps:** Docker, GitHub Actions  
-- **Cloud:** Azure, AWS
----
-
-## 📌 Projetos
-1. **API-HR-GO** – Controle de batida de ponto eletrônico  
-   👉 Repositório: https://github.com/apollo920/API-HR-GO
-
-2. **Formulários Dinâmicos (desafio técnico)** – FastAPI + SQLAlchemy + PostgreSQL (em construção)  
-   • CRUD completo, paginação, ordenação e filtros  
-   • Foco em migrações e integridade referencial
-
-3. **Dashboard de Capacitações** – Streamlit + Plotly (em evolução)  
-   • Layout dark, KPIs, distribuição por áreas e certificações
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Engenheiro+de+Software;Backend+%26+An%C3%A1lise+de+Dados;Amante+de+tecnologia+%26+ci%C3%AAncia)](https://git.io/typing-svg)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apollo920&show_icons=true&theme=dracula&count_private=true)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=apollo920&theme=dracula)
-
-## 🧠 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apollo920&layout=compact&theme=dracula)
+## 💡 Sobre mim  
+Sou engenheiro de software focado em **APIs (FastAPI/Django)**, **SQL e modelagem de dados**, e **análises com Python** (Pandas/Matplotlib/Seaborn/Plotly).  
+Gosto de escrever código limpo, versionar decisões técnicas e transformar problemas em entregas testáveis.  
 
 ---
 
-## ✍️ Livro de visitas
-Curtiu o perfil? **[Assine o livro de visitas](https://github.com/apollo920/apollo920/issues/new?title=%F0%9F%91%8B+Passei+por+aqui&body=Deixe+uma+mensagem!&labels=guestbook)**.  
-Seu nome e a data/hora entram no log automático (veja `GUESTBOOK.md`).
+## 📊 Minhas atividades  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apollo920&bg_color=000000&color=0000ff&line=0000ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 💬 Contato
-Se quiser trocar uma ideia ou colaborar, fale comigo: **apollolds2@gmail.com**.
+## 🎯 Skills e Tecnologias  
 
-⭐️ Se algum repositório te ajudou, deixe uma estrela!
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=00aaff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00aaff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=00aaff)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=00aaff)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=00aaff)
+
+---
+
+## 🎉 Um pouco de diversão  
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif&ct=g" width="250">
+
+---
+
+![Line](https://raw.githubusercontent.com/apollo920/apollo920/main/assets/line-colors-ezgif.com-resize.gif)
+
