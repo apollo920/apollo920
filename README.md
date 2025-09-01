@@ -7,10 +7,6 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apollo920&bg_color=000000&color=0000ff&line=0000ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=00aaff)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00aaff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=00aaff)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=00aaff)
 ![Line](https://raw.githubusercontent.com/apollo920/apollo920/main/assets/line-colors-ezgif.com-resize.gif)
 
 ---
